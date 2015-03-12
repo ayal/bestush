@@ -98,3 +98,4 @@ dorandomthing = function() {
     var item = items[Math.floor(Math.random()*items.length)];
     document.getElementById('pizi').src = 'http://pizi.meteor.com/artists/' + item.artist + '/albums/' + item.album + '/tracks/';
 };
+
