@@ -1,0 +1,13 @@
+<!doctype html>
+<html>
+  <head>
+    <link href='this.css' rel='stylesheet' type='text/css'>
+  </head>
+  <body>
+    <button onclick="dorandomthing()">RANDOM BESTEST ALBUM</button>
+    <iframe frameBorder="0"></iframe>
+    <script src="do.js"></script>
+  </body>
+</html>
+
+
